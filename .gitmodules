@@ -1,0 +1,3 @@
+[submodule "message-queues"]
+	path = message-queues
+	url = git@github.com:bernardawj/message-queues
