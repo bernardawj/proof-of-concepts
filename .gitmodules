@@ -1,3 +1,6 @@
 [submodule "message-queues"]
 	path = message-queues
 	url = git@github.com:bernardawj/message-queues
+[submodule "oop-rock-paper-scissors"]
+	path = oop-rock-paper-scissors
+	url = git@github.com:bernardawj/oop-rock-paper-scissors.git
