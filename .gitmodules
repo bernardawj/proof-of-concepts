@@ -4,3 +4,6 @@
 [submodule "oop-rock-paper-scissors"]
 	path = oop-rock-paper-scissors
 	url = git@github.com:bernardawj/oop-rock-paper-scissors.git
+[submodule "caching-concepts"]
+	path = caching-concepts
+	url = git@github.com:bernardawj/caching-concepts.git
